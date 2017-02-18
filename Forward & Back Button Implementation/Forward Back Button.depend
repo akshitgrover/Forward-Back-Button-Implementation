@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487447635 source:c:\users\hp\desktop\forward back button\main.cpp
+	<iostream>
+	<stack>
+	<stdlib.h>
+
